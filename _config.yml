@@ -1,0 +1,44 @@
+title: zwn's Blog
+description: zwn's Blog
+
+url: https://zwn888zwn.github.io
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 10
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: Articles (中文)
+   url: /articles-zh
+ - title: Articles (EN)
+   url: /articles
+ - title: Categories
+   url: /categories
+ - title: About
+   url: /about
+# - title: Donate
+#   url: /donate
+
+social:
+   github: zwn888zwn
+#   linkedin: in/yanan-zhao-7691317b?trk=hp-identity-photo
+#   facebook: profile.php?id=100014334455077
+   email: zwn888zwn@gmail.com
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      comments: false
+
+google_analytics: "G-5REJB0TC07"
+
+# development configurations
+host: 0.0.0.0
