@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc99e62b-a185-4ca2-871f-2be3d991ca94" name="Changes" comment="从csdn搬家">
+    <list default="true" id="bc99e62b-a185-4ca2-871f-2be3d991ca94" name="Changes" comment="从csdn搬家和部分笔记整理">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2019-10-03-jvm-book-note-zh.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2019-10-03-jvm-book-note-zh.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +56,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="从csdn搬家" />
-    <option name="LAST_COMMIT_MESSAGE" value="从csdn搬家" />
+    <MESSAGE value="从csdn搬家和部分笔记整理" />
+    <option name="LAST_COMMIT_MESSAGE" value="从csdn搬家和部分笔记整理" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
